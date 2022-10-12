@@ -1,3 +1,3 @@
-# Nanodegree_ML
+# Projects Nanodegree Introduction to Machine Learning
 
-Projects made for Udacity's Nanodegree Intorudction to Machine Learning
+Projects 
